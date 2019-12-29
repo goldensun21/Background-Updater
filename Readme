@@ -1,6 +1,6 @@
 Installation Instructions:
 
-Once .zip is expanded, move the app "Background Updater to your Applications folder and open it.
+Once .zip is opened/expanded, move the app "Background Updater to your Applications folder and open it.
 macOS will alert you that the app cannot be open as it is from an unidentified developer. Click "OK."
 Open System Preferences and navigate to Security and Privacy. Go to the General tab.
 Click "Open Anyway" in this menu. This will open a pop-up where you can again select "Open."
