@@ -1,0 +1,11 @@
+Installation Instructions:
+
+Once .zip is expanded, move the app "Background Updater to your Applications folder and open it.
+macOS will alert you that the app cannot be open as it is from an unidentified developer. Click "OK."
+Open System Preferences and navigate to Security and Privacy. Go to the General tab.
+Click "Open Anyway" in this menu. This will open a pop-up where you can again select "Open."
+
+After the above is complete, double click the app "Updater Scheduler" and follow the above instructions regarding Security and Privacy in System Preferences.
+Note that the Updater Scheduler app does not need to be moved to the Applications folder as it only installs a scheduler script in ~/Library/LaunchAgents
+
+Once the above steps are complete, the Cannon Beach Background Updater will be installed to update your desktop background every five minutes.
