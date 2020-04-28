@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Installer script for Cannon Beach Background Updater and Scheduler
+
+mkdir ~/Library/Scripts/
+mkdir ~/Library/LaunchAgents/
+
+cp /Volumes/Cannon\ Beach\ Background\ Updater/Cannon\ Beach\ Installer.app/Contents/background_updater.sh ~/Library/Scripts/
+
+cp /Volumes/Cannon\ Beach\ Background\ Updater/Cannon\ Beach\ Installer.app/Contents/com.zerowidth.launched.background_updater.plist ~/Library/LaunchAgents/

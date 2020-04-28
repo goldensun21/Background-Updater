@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Uninstall Script for Cannon Beach Background Updater
+
+rm -r ~/Library/Application\ Support/background_updater/
+rm -r /Users/Shared/Desktop\ Photos/
+rm ~/Library/Scripts/background_updater.sh
+rm ~/Library/LaunchAgents/com.zerowidth.launched.background_updater.plist
